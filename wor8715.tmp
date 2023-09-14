@@ -833,7 +833,7 @@ y_sort_enabled = true
 texture_repeat = 2
 
 [node name="Player" parent="." instance=ExtResource("2_an4k4")]
-position = Vector2(96, 56.0387)
+position = Vector2(144, 56)
 
 [node name="Bushes" type="Node2D" parent="."]
 y_sort_enabled = true
